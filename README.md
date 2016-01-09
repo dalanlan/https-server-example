@@ -1,4 +1,4 @@
-###REAME
+###README
 
 Ref http://studygolang.com/articles/2946
 
